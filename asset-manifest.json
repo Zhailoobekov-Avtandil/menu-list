@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/menu-list/static/css/main.5a50fe2c.chunk.css",
+    "main.js": "/menu-list/static/js/main.c1dcfed0.chunk.js",
+    "main.js.map": "/menu-list/static/js/main.c1dcfed0.chunk.js.map",
+    "runtime-main.js": "/menu-list/static/js/runtime-main.de4830ad.js",
+    "runtime-main.js.map": "/menu-list/static/js/runtime-main.de4830ad.js.map",
+    "static/js/2.57b7214d.chunk.js": "/menu-list/static/js/2.57b7214d.chunk.js",
+    "static/js/2.57b7214d.chunk.js.map": "/menu-list/static/js/2.57b7214d.chunk.js.map",
+    "index.html": "/menu-list/index.html",
+    "static/css/main.5a50fe2c.chunk.css.map": "/menu-list/static/css/main.5a50fe2c.chunk.css.map",
+    "static/js/2.57b7214d.chunk.js.LICENSE.txt": "/menu-list/static/js/2.57b7214d.chunk.js.LICENSE.txt",
+    "static/media/burger.cca58a8c.png": "/menu-list/static/media/burger.cca58a8c.png",
+    "static/media/cola.c4993c18.png": "/menu-list/static/media/cola.c4993c18.png",
+    "static/media/fanta.5bfec1de.png": "/menu-list/static/media/fanta.5bfec1de.png",
+    "static/media/hotdog.574b366a.png": "/menu-list/static/media/hotdog.574b366a.png",
+    "static/media/kfc.0e7a58f5.png": "/menu-list/static/media/kfc.0e7a58f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de4830ad.js",
+    "static/js/2.57b7214d.chunk.js",
+    "static/css/main.5a50fe2c.chunk.css",
+    "static/js/main.c1dcfed0.chunk.js"
+  ]
+}
